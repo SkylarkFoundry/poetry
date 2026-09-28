@@ -10,6 +10,96 @@
     },
     "items": [
         {
+            "id": "https://skylarkfoundry.github.io/poetry/oxford-white.html",
+            "url": "https://skylarkfoundry.github.io/poetry/oxford-white.html",
+            "title": "Oxford White",
+            "summary": "The season’s first snow is a freshly laundered shirt, I try not&hellip;",
+            "content_html": "<p class=\"align-center\">The season’s first snow<br>is a freshly laundered shirt,<br>I try not to stain.</p>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/8/WhiteShirt1_12f6bf2c-6307-4331-b1a6-9b8b6ee1dc2d.png.webp",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-28T19:37:13-04:00",
+            "date_modified": "2026-09-28T19:37:13-04:00"
+        },
+        {
+            "id": "https://skylarkfoundry.github.io/poetry/eat-and-run.html",
+            "url": "https://skylarkfoundry.github.io/poetry/eat-and-run.html",
+            "title": "Eat &amp; Run",
+            "summary": "Birds at the feeder, when twenty below, come and leave quickly and&hellip;",
+            "content_html": "<div class=\"align-center\">Birds at the feeder,<br>when twenty below,<br>come and leave quickly<br>and make quite a show.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And when they fly off<br>to where do they go,<br>to some secret lair<br>protected from snow?</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Are they taking turns<br>when they come to eat,<br>the rest of them back,<br>preserving the heat?</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Birds of a feather,<br>as everyone’s told,<br>they stick together<br>to survive such cold.</div>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/7/cute-fluffy-little-birds-huddle-together-in-winter-while-its-snowing-by-stewart-edmondson-and-alexan.jpg.webp",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-28T19:34:51-04:00",
+            "date_modified": "2026-09-28T19:34:51-04:00"
+        },
+        {
+            "id": "https://skylarkfoundry.github.io/poetry/saint-leibowitz.html",
+            "url": "https://skylarkfoundry.github.io/poetry/saint-leibowitz.html",
+            "title": "Saint Leibowitz",
+            "summary": "Sometimes I wonder if I am the father of Leibowitz. If my&hellip;",
+            "content_html": "<div class=\"align-center\">Sometimes I wonder<br>if I am the father of Leibowitz.<br>If my son is destined,<br>to be the last.<br>A mistaken saint,<br>before a thousand years<br>of relearning lessons from<br>the past.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Sometimes I wonder<br>if there was anything I<br>might have done to prevent<br>the Flame Deluge.<br>Maybe becoming a true saint,<br>by loving more and caring for<br>the feeble Pope’s children<br>next door?</div>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/6/Michaud-A-Canticle-for-Leibowitz.jpg.webp",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-28T19:32:41-04:00",
+            "date_modified": "2026-09-28T19:32:41-04:00"
+        },
+        {
+            "id": "https://skylarkfoundry.github.io/poetry/glowworms-and-fireflies.html",
+            "url": "https://skylarkfoundry.github.io/poetry/glowworms-and-fireflies.html",
+            "title": "Glowworms &amp; Fireflies",
+            "summary": "Fireflies bouncing on the faint breeze of a warm summer night pulse&hellip;",
+            "content_html": "<div class=\"align-center\">Fireflies bouncing on<br>the faint breeze of a warm summer night<br>pulse their beacon in a controlled pattern,<br>to attract a lover.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But their beloved baby glowworms,<br>lacking such learning and discipline,<br>let their light shine, perpetually<br>turned on.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">When I was a young glowworm<br>my four year old self was a lantern<br>shining all around me, illuminating everything,<br>taking it all in.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">As I grew, though I couldn’t increase my light,<br>I learned to control it by focusing<br>those same lumens as a spotlight, bright,<br>but very narrow.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Sometimes on a warm summer night, I pretend<br>I’m a little glowworm again,<br>without a care in the world, shining my light<br>on all my blind spots.</div>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/5/do-you-have-fireflies-glow-worms-at-yard-v0-kcbdzdgd9r6g1.jpeg.webp",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-28T19:26:02-04:00",
+            "date_modified": "2026-09-28T19:27:52-04:00"
+        },
+        {
+            "id": "https://skylarkfoundry.github.io/poetry/doubt.html",
+            "url": "https://skylarkfoundry.github.io/poetry/doubt.html",
+            "title": "Doubt",
+            "summary": "Doubt is a faint chill you feel while sitting in a cozy&hellip;",
+            "content_html": "<div class=\"align-center\">Doubt is a faint chill<br>you feel while sitting<br>in a cozy place,<br>wearing that soft sweater<br>your parents gave you.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">You decide to light a fire,<br>and reach up with your hand,<br>to lift the cold, iron handle<br>of the chimney flue.<br>Glancing down,<br>you see your fingers stained<br>with black soot and ash.<br>You wonder, do my fingers match my soul?<br>Does God really love me?</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">The fire burns.<br>Like a prayer,<br>it starts small, but grows.<br>You hold out your dirty fingers,<br>to warm them by that fire.<br>You warm them, like Thomas<br>warmed his own,<br>in the side of Jesus.<br>Slowly that chill,<br>begins to leave you.<br>You begin to hope.<br>You hope because,<br>there is nothing else to do.</div>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/4/Matthias_Stom_-_The_Incredulity_of_St_Thomas_-_WGA21807-2-687x550.jpg",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-28T19:19:08-04:00",
+            "date_modified": "2026-09-28T19:19:57-04:00"
+        },
+        {
+            "id": "https://skylarkfoundry.github.io/poetry/fresh-paint.html",
+            "url": "https://skylarkfoundry.github.io/poetry/fresh-paint.html",
+            "title": "Fresh Paint",
+            "summary": "This fresh coat of paint, You brushed, thick across the leaves, when&hellip;",
+            "content_html": "<p>This fresh coat of paint,<br>You brushed, thick across the leaves,<br>when there’s wind, it drips.</p>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/3/Whimsy-Soul-Lake-Tahoe-hope-valley-fall-colors-113.jpg.webp",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-28T18:52:10-04:00",
+            "date_modified": "2026-09-28T18:52:10-04:00"
+        },
+        {
             "id": "https://skylarkfoundry.github.io/poetry/who-is-my-brother-2.html",
             "url": "https://skylarkfoundry.github.io/poetry/who-is-my-brother-2.html",
             "title": "Who is my Brother?",

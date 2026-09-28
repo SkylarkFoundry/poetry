@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>words.skylarkfoundry.com</title>
+    <link href="https://skylarkfoundry.github.io/poetry/feed.xml" rel="self" />
+    <link href="https://skylarkfoundry.github.io/poetry" />
+    <updated>2026-09-28T08:16:51-04:00</updated>
+    <author>
+        <name>Kevin Kwilinski</name>
+    </author>
+    <id>https://skylarkfoundry.github.io/poetry</id>
+
+    <entry>
+        <title>Who is my Brother?</title>
+        <author>
+            <name>Kevin Kwilinski</name>
+        </author>
+        <link href="https://skylarkfoundry.github.io/poetry/who-is-my-brother-2.html"/>
+        <id>https://skylarkfoundry.github.io/poetry/who-is-my-brother-2.html</id>
+        <media:content url="https://skylarkfoundry.github.io/poetry/media/posts/2/Artificial_Intelligence_and_AI_and_Machine_Learning_-_30212411048.jpg" medium="image" />
+
+        <updated>2026-09-28T08:16:07-04:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://skylarkfoundry.github.io/poetry/media/posts/2/Artificial_Intelligence_and_AI_and_Machine_Learning_-_30212411048.jpg" class="type:primaryImage" alt="" /></p>
+                <p>They declare “Look!”<br>gaze upon our creation.<br>It thinks and solves<br>the apex of mathematical<br>abstractions<br>while abstracting language<br>into beautiful poetry.</p>
+<p>Creating images inspired<br>by your imagining,<br>imagine how it might<br>become your friend,<br>replace your friend,<br>be that person who will<br>never let you down.</p>
+<p>Person you say?<br>The people I’ve known<br>the longest, my friends,<br>family who share my blood,<br>they struggle to walk now<br>and repeat the same story<br>they told me yesterday.</p>
+<p>The people I know best<br>have cried with me,<br>worrying about our grown<br>children in the city<br>and those we’ve<br>buried with prayer<br>under that old oak.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

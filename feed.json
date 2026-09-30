@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://skylarkfoundry.github.io/poetry/prosperity-haiku.html",
+            "url": "https://skylarkfoundry.github.io/poetry/prosperity-haiku.html",
+            "title": "Prosperity Haiku",
+            "summary": "Billionaires plotting. Trumping up their Super cure, they hawk salvation.",
+            "content_html": "<div class=\"align-center\">Billionaires plotting.</div>\n<div class=\"align-center\">Trumping up their Super cure,</div>\n<div class=\"align-center\">they hawk salvation.</div>",
+            "image": "https://skylarkfoundry.github.io/poetry/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-09-30T06:49:38-04:00",
+            "date_modified": "2026-09-30T06:49:38-04:00"
+        },
+        {
             "id": "https://skylarkfoundry.github.io/poetry/my-deaf-mom.html",
             "url": "https://skylarkfoundry.github.io/poetry/my-deaf-mom.html",
             "title": "My Deaf Mom",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-09-28T20:25:15-04:00",
             "date_modified": "2026-09-28T20:25:15-04:00"
-        },
-        {
-            "id": "https://skylarkfoundry.github.io/poetry/a-week-of-quarantine.html",
-            "url": "https://skylarkfoundry.github.io/poetry/a-week-of-quarantine.html",
-            "title": "A Week of Quarantine",
-            "summary": "I: I searched an hour for my pjs so that I could&hellip;",
-            "content_html": "<div class=\"align-center\">I:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">I searched an hour for my pjs<br>so that I could go to bed .<br>Quarantine has blurred my days<br>and wreaked havoc with my head.<br>A quick glance in the mirror,<br>I see my sanity foregone.<br>The pajama search abruptly ended.<br>I already have them on.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">II:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">My office space keeps moving<br>as I go from call to call.<br>Piano practice sends me upstairs<br>behind our bedroom wall.<br>Then in comes mom with Ana<br>to put her down for nap.<br>So I descend the stairs again.<br>End this quarantine ASAP!</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">III:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">I’m rowing down the Schuylkill<br>in a race against a crew.<br>The art museum is up ahead<br>and the Rocky statue too.<br>Now I run across a mountainscape<br>and through an Alpine town.<br>Such fantasies! They fill my head.<br>I hate exercise in lockdown.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">IV:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Go out to eat and see a show<br>the Governor just said.<br>It’s back to normal and back to school<br>so get out of your bed.<br>Stay in your house or six feet apart<br>is no longer the rule.<br>I dream of this most every day.<br>Oh! Today is April Fool.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">V:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Office life is underrated<br>with meetings face to face.<br>You can criticize a job done poor<br>and put them in their place.<br>But in quarantine while on the phone<br>you dare not scream and yell.<br>The boss, she’ll hear you acting up.<br>She’ll come and ring your bell.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">VI:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">“Thank God it’s Friday,”<br>has lost all of the appeal.<br>For tomorrow will be like today<br>without a different feel.<br>I wonder did we lose,<br>the weekend or the week?<br>Is boredom about to go away?<br>Or is it even close to peak?</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">VII:</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Log scale graphs are useful<br>for showing change in rate.<br>In visualizing the second derivative<br>they really work out great.<br>But if you want real people<br>to understand your math.<br>Please use less than/greater.<br>When you project contagion path.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/15/COVID19-Home-Quarantine-Instructions-and-Precautions.jpg",
-            "author": {
-                "name": "Kevin Kwilinski"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-28T20:20:34-04:00",
-            "date_modified": "2026-09-28T20:20:34-04:00"
         }
     ]
 }

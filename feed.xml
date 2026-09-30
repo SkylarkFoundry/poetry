@@ -3,12 +3,37 @@
     <title>words.skylarkfoundry.com</title>
     <link href="https://skylarkfoundry.github.io/poetry/feed.xml" rel="self" />
     <link href="https://skylarkfoundry.github.io/poetry" />
-    <updated>2026-09-28T21:21:14-04:00</updated>
+    <updated>2026-09-30T06:49:38-04:00</updated>
     <author>
         <name>Kevin Kwilinski</name>
     </author>
     <id>https://skylarkfoundry.github.io/poetry</id>
 
+    <entry>
+        <title>Prosperity Haiku</title>
+        <author>
+            <name>Kevin Kwilinski</name>
+        </author>
+        <link href="https://skylarkfoundry.github.io/poetry/prosperity-haiku.html"/>
+        <id>https://skylarkfoundry.github.io/poetry/prosperity-haiku.html</id>
+        <media:content url="https://skylarkfoundry.github.io/poetry/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg" medium="image" />
+
+        <updated>2026-09-30T06:49:38-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://skylarkfoundry.github.io/poetry/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg" alt="" />
+                    Billionaires plotting. Trumping up their Super cure, they hawk salvation.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://skylarkfoundry.github.io/poetry/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg" class="type:primaryImage" alt="" /></p>
+                <div class="align-center">Billionaires plotting.</div>
+<div class="align-center">Trumping up their Super cure,</div>
+<div class="align-center">they hawk salvation.</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>My Deaf Mom</title>
         <author>
@@ -276,55 +301,6 @@
 <div class="align-center">And God kept faith,<br>Delivering His people out of bondage,<br>by deftly closing that six foot gap.</div>
 <div class="align-center"> </div>
 <div class="align-center">And His Son kept faith,<br>Delivering His people out of bondage,<br>by sacrificially closing the six foot depth of the grave.</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>A Week of Quarantine</title>
-        <author>
-            <name>Kevin Kwilinski</name>
-        </author>
-        <link href="https://skylarkfoundry.github.io/poetry/a-week-of-quarantine.html"/>
-        <id>https://skylarkfoundry.github.io/poetry/a-week-of-quarantine.html</id>
-        <media:content url="https://skylarkfoundry.github.io/poetry/media/posts/15/COVID19-Home-Quarantine-Instructions-and-Precautions.jpg" medium="image" />
-
-        <updated>2026-09-28T20:20:34-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://skylarkfoundry.github.io/poetry/media/posts/15/COVID19-Home-Quarantine-Instructions-and-Precautions.jpg" alt="" />
-                    I: I searched an hour for my pjs so that I could&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://skylarkfoundry.github.io/poetry/media/posts/15/COVID19-Home-Quarantine-Instructions-and-Precautions.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="align-center">I:</div>
-<div class="align-center"> </div>
-<div class="align-center">I searched an hour for my pjs<br>so that I could go to bed .<br>Quarantine has blurred my days<br>and wreaked havoc with my head.<br>A quick glance in the mirror,<br>I see my sanity foregone.<br>The pajama search abruptly ended.<br>I already have them on.</div>
-<div class="align-center"> </div>
-<div class="align-center">II:</div>
-<div class="align-center"> </div>
-<div class="align-center">My office space keeps moving<br>as I go from call to call.<br>Piano practice sends me upstairs<br>behind our bedroom wall.<br>Then in comes mom with Ana<br>to put her down for nap.<br>So I descend the stairs again.<br>End this quarantine ASAP!</div>
-<div class="align-center"> </div>
-<div class="align-center">III:</div>
-<div class="align-center"> </div>
-<div class="align-center">I’m rowing down the Schuylkill<br>in a race against a crew.<br>The art museum is up ahead<br>and the Rocky statue too.<br>Now I run across a mountainscape<br>and through an Alpine town.<br>Such fantasies! They fill my head.<br>I hate exercise in lockdown.</div>
-<div class="align-center"> </div>
-<div class="align-center">IV:</div>
-<div class="align-center"> </div>
-<div class="align-center">Go out to eat and see a show<br>the Governor just said.<br>It’s back to normal and back to school<br>so get out of your bed.<br>Stay in your house or six feet apart<br>is no longer the rule.<br>I dream of this most every day.<br>Oh! Today is April Fool.</div>
-<div class="align-center"> </div>
-<div class="align-center">V:</div>
-<div class="align-center"> </div>
-<div class="align-center">Office life is underrated<br>with meetings face to face.<br>You can criticize a job done poor<br>and put them in their place.<br>But in quarantine while on the phone<br>you dare not scream and yell.<br>The boss, she’ll hear you acting up.<br>She’ll come and ring your bell.</div>
-<div class="align-center"> </div>
-<div class="align-center">VI:</div>
-<div class="align-center"> </div>
-<div class="align-center">“Thank God it’s Friday,”<br>has lost all of the appeal.<br>For tomorrow will be like today<br>without a different feel.<br>I wonder did we lose,<br>the weekend or the week?<br>Is boredom about to go away?<br>Or is it even close to peak?</div>
-<div class="align-center"> </div>
-<div class="align-center">VII:</div>
-<div class="align-center"> </div>
-<div class="align-center">Log scale graphs are useful<br>for showing change in rate.<br>In visualizing the second derivative<br>they really work out great.<br>But if you want real people<br>to understand your math.<br>Please use less than/greater.<br>When you project contagion path.</div>
             ]]>
         </content>
     </entry>

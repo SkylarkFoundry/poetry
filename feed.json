@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "words.skylarkfoundry.com",
     "description": "",
-    "home_page_url": "https://skylarkfoundry.github.io/poetry",
-    "feed_url": "https://skylarkfoundry.github.io/poetry/feed.json",
+    "home_page_url": "https://words.skylarkfoundry.com",
+    "feed_url": "https://words.skylarkfoundry.com/feed.json",
     "user_comment": "",
-    "icon": "https://skylarkfoundry.github.io/poetry/media/website/SKYLARK_FOUNDRY_ORANGE_ACCENT.png",
+    "icon": "https://words.skylarkfoundry.com/media/website/SKYLARK_FOUNDRY_ORANGE_ACCENT.png",
     "author": {
         "name": "Kevin Kwilinski"
     },
     "items": [
         {
-            "id": "https://skylarkfoundry.github.io/poetry/prosperity-haiku.html",
-            "url": "https://skylarkfoundry.github.io/poetry/prosperity-haiku.html",
+            "id": "https://words.skylarkfoundry.com/prosperity-haiku.html",
+            "url": "https://words.skylarkfoundry.com/prosperity-haiku.html",
             "title": "Prosperity Haiku",
             "summary": "Billionaires plotting. Trumping up their Super cure, they hawk salvation.",
             "content_html": "<div class=\"align-center\">Billionaires plotting.</div>\n<div class=\"align-center\">Trumping up their Super cure,</div>\n<div class=\"align-center\">they hawk salvation.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -26,12 +26,12 @@
             "date_modified": "2026-09-30T06:49:38-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/my-deaf-mom.html",
-            "url": "https://skylarkfoundry.github.io/poetry/my-deaf-mom.html",
+            "id": "https://words.skylarkfoundry.com/my-deaf-mom.html",
+            "url": "https://words.skylarkfoundry.com/my-deaf-mom.html",
             "title": "My Deaf Mom",
             "summary": "She lived her life with an immature desire. Dancing and singing, her&hellip;",
             "content_html": "<div class=\"align-center\">She lived her life with an immature desire.<br>Dancing and singing, her face lit a room.<br>But like a firecracker before the boom,<br>many often held their breath while by her.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">I remember once, while near that line of fire,<br>I blushed, a boy of five, from her strong fume.<br>Her lips spewing forth in an obscene plume,<br>while she alone would not hear the deafening ire.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Then I’d relay the circumspect reply,<br>from a confused face speaking through her child,<br>as my mother lit a fresh cigarette.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Rewinding the tape with her careful eye,<br>she watched me imitate the words which riled,<br>never showing me a small sign of regret.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/24/signlanguage.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/24/signlanguage.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -41,12 +41,12 @@
             "date_modified": "2026-09-28T21:13:36-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/bread.html",
-            "url": "https://skylarkfoundry.github.io/poetry/bread.html",
+            "id": "https://words.skylarkfoundry.com/bread.html",
+            "url": "https://words.skylarkfoundry.com/bread.html",
             "title": "Bread",
             "summary": "I smell the bread baking and I’m reminded of your soft hands&hellip;",
             "content_html": "<div class=\"align-center\">I smell the bread baking<br>and I’m reminded of your soft hands<br>touching that fleshy dough.<br>You make me hungry.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">As steam and hot scent<br>escape from the oven door,<br>I see our reflection in the glass.<br>My face is covered in sweat.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Though you give me a generous slice,<br>hot and sweet with salted butter;<br>even while the taste still lingers,<br>I want more.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/23/freshly-baked-bread-stockcake.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/23/freshly-baked-bread-stockcake.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -56,12 +56,12 @@
             "date_modified": "2026-09-28T21:01:59-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/autumn.html",
-            "url": "https://skylarkfoundry.github.io/poetry/autumn.html",
+            "id": "https://words.skylarkfoundry.com/autumn.html",
+            "url": "https://words.skylarkfoundry.com/autumn.html",
             "title": "Autumn",
             "summary": "I looked out for you, but frost covered my window. Summer, did&hellip;",
             "content_html": "<p class=\"align-center\">I looked out for you,<br>but frost covered my window.<br>Summer, did you leave?</p>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/22/frosted-window-with-detailed-ice-patterns-overlooking-autumn-forest-in-soft-focus-light-free-photo.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/22/frosted-window-with-detailed-ice-patterns-overlooking-autumn-forest-in-soft-focus-light-free-photo.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -71,12 +71,12 @@
             "date_modified": "2026-09-28T21:00:11-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/911.html",
-            "url": "https://skylarkfoundry.github.io/poetry/911.html",
+            "id": "https://words.skylarkfoundry.com/911.html",
+            "url": "https://words.skylarkfoundry.com/911.html",
             "title": "911",
             "summary": "Lipstick red, your massive hips bulge above supple feet, as my finger&hellip;",
             "content_html": "<p class=\"align-center\">Lipstick red,<br>your massive hips<br>bulge above supple feet,<br>as my finger gently traces<br>their obscene curve.<br>Anticipating that<br>provocative,<br>pulsing,<br>power,<br>perched<br>between your thick thighs,<br>I take my seat<br>and<br>I turn the key.</p>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/21/1468_p12_l.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/21/1468_p12_l.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -86,12 +86,12 @@
             "date_modified": "2026-09-28T20:55:26-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/liquor.html",
-            "url": "https://skylarkfoundry.github.io/poetry/liquor.html",
+            "id": "https://words.skylarkfoundry.com/liquor.html",
+            "url": "https://words.skylarkfoundry.com/liquor.html",
             "title": "Liquor",
             "summary": "The poetic word is potent. Like one hundred and seven proof bourbon,&hellip;",
             "content_html": "<div class=\"align-center\">The poetic word is potent.<br>Like one hundred and seven proof<br>bourbon,<br>it makes me drunk.</div>\n<div class=\"align-center\"><br>Plenty of pages of prose<br>are distilled in<br>a single<br>stanza.</div>\n<div class=\"align-center\"><br>It is irresistible as<br>I swirl it in my mouth.<br>Sniff it.<br>Taste it.</div>\n<div class=\"align-center\"><br>Breathe it in.</div>\n<div class=\"align-center\"><br>I hold it up to the light<br>to peer into its soul.</div>\n<div class=\"align-center\"><br>With voracious appetite,<br>I invert its glass until</div>\n<div class=\"align-center\"><br>the</div>\n<div class=\"align-center\"><br>last</div>\n<div class=\"align-center\"><br>drip</div>\n<div class=\"align-center\"><br>slides<br>slowly<br>south</div>\n<div class=\"align-center\"><br>onto my </div>\n<div class=\"align-center\">silver<br>tongue.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/20/sippytitle-1.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/20/sippytitle-1.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -101,12 +101,12 @@
             "date_modified": "2026-09-28T21:21:14-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/paper-airplane.html",
-            "url": "https://skylarkfoundry.github.io/poetry/paper-airplane.html",
+            "id": "https://words.skylarkfoundry.com/paper-airplane.html",
+            "url": "https://words.skylarkfoundry.com/paper-airplane.html",
             "title": "Paper Airplane",
             "summary": "If you chance find this poem, please do not attempt reply. Just&hellip;",
             "content_html": "<div class=\"align-center\">If you chance find this poem,<br>please do not attempt reply.<br>Just fold it back into its shape<br>and toss it toward the sky.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">I launched it late last night,<br>out the window in my room,<br>a sort of self-made prison space<br>above my future tomb.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Thirty years I’ve toiled<br>on this edifice of gold.<br>Performing tasks I scarce enjoy,<br>a slab of me I sold.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just a wishful poet,<br>when you cut me to my core.<br>Perhaps, some day, I’ll muster strength<br>and become someone more.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">This airplane sent aloft,<br>out on the chill night air,<br>it is a verse from Morpheus,<br>a hope, a dream, my prayer.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/19/CD4361_Z_570x570.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/19/CD4361_Z_570x570.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -116,12 +116,12 @@
             "date_modified": "2026-09-28T20:45:06-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/rowing.html",
-            "url": "https://skylarkfoundry.github.io/poetry/rowing.html",
+            "id": "https://words.skylarkfoundry.com/rowing.html",
+            "url": "https://words.skylarkfoundry.com/rowing.html",
             "title": "Rowing",
             "summary": "The oars cut thin, they split the calm, cold lake. My legs,&hellip;",
             "content_html": "<div class=\"align-center\">The oars cut thin, they split the calm, cold lake.<br>My legs, still stiff, propel me back, but slow.<br>My back and arms repeat that work they know.<br>Now pace makes fast and hard, I’m wide awake.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Each stroke proceeds to build consuming ache.<br>Each drop of sweat, its wish, a breeze would blow.<br>Each pull, protests my next command to row.<br>I lift a hand to drink, in hope my thirst to slake.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">This pause so short revives my mind and soul.<br>I look and see the beauty of this place.<br>The fog about, it lays like a smoky rug.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">A gar I glimpse, as it swims inside a shoal.<br>Now wind I feel, move quick across my face,<br>And God leans down blessing me with His hug.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/18/072923.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/18/072923.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -131,12 +131,12 @@
             "date_modified": "2026-09-28T20:40:53-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/jewelry.html",
-            "url": "https://skylarkfoundry.github.io/poetry/jewelry.html",
+            "id": "https://words.skylarkfoundry.com/jewelry.html",
+            "url": "https://words.skylarkfoundry.com/jewelry.html",
             "title": "Jewelry",
             "summary": "In the springtime of our life you brought forth a bud which&hellip;",
             "content_html": "<div class=\"align-center\">In the springtime of our life<br>you brought forth a bud<br>which so very slowly grew.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Your peridot leaves shone<br>nourishing this delicate gem<br>so pregnant with promise.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">With exhausting care and<br>tears and prayer you coaxed<br>forth a golden citrine flower.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">A single maternal blossom<br>nurtured as a simple act of love<br>fulfilled in six complex petals.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And these many years, my great joy<br>has been to gaze upon this lily<br>and into the eyes of its able gardener.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/17/eleazar_yg_pd_ci_0.jpg",
+            "image": "https://words.skylarkfoundry.com/media/posts/17/eleazar_yg_pd_ci_0.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
             },
@@ -146,12 +146,12 @@
             "date_modified": "2026-09-28T20:34:26-04:00"
         },
         {
-            "id": "https://skylarkfoundry.github.io/poetry/six-feet.html",
-            "url": "https://skylarkfoundry.github.io/poetry/six-feet.html",
+            "id": "https://words.skylarkfoundry.com/six-feet.html",
+            "url": "https://words.skylarkfoundry.com/six-feet.html",
             "title": "Six Feet",
             "summary": "We woke and gazed out, seeing a violent stream now coursed, rapidly&hellip;",
             "content_html": "<div class=\"align-center\">We woke and gazed out,<br>seeing a violent stream now coursed,<br>rapidly between us and our neighbor's place.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">A strid, deadly if crossed,<br>like that of which Wordsworth wrote,<br>recalling the force of prayer.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Strid from the Old English,<br>word \"Stryth\" meaning \"turmoil\",<br>recalling the force of water.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Strid for the deceptive possibility,<br>of easily striding across so narrow a gap,<br>recalling the force of hope.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just six feet wide,<br>was Wordsworth's ancient strid,<br>in its ancient course past Bolton priory.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just six feet wide,<br>but taking into its icy depths so many,<br>lads and ladies and lovers who dared to pass.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just six feet of social distance,<br>but no less a thief of friendship,<br>than the six feet of an earthy grave.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">\"Strangled by a merciless force\",<br>the priory cut off from the body,<br>leaving St. Mary and St. Cuthbert alone in prayer.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But Moses’ staff was lifted high,<br>and God parted the sea enough,<br>to consume the six foot width of Pharoah's chariot.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And God kept faith,<br>Delivering His people out of bondage,<br>by deftly closing that six foot gap.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And His Son kept faith,<br>Delivering His people out of bondage,<br>by sacrificially closing the six foot depth of the grave.</div>",
-            "image": "https://skylarkfoundry.github.io/poetry/media/posts/16/images-3.jpeg",
+            "image": "https://words.skylarkfoundry.com/media/posts/16/images-3.jpeg",
             "author": {
                 "name": "Kevin Kwilinski"
             },

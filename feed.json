@@ -15,7 +15,7 @@
             "url": "https://words.skylarkfoundry.com/prosperity-haiku.html",
             "title": "Prosperity Haiku",
             "summary": "Billionaires plotting. Trumping up their Super cure, they hawk salvation.",
-            "content_html": "<div class=\"align-center\">Billionaires plotting.</div>\n<div class=\"align-center\">Trumping up their Super cure,</div>\n<div class=\"align-center\">they hawk salvation.</div>",
+            "content_html": "<div class=\"align-center\">Billionaires plotting.</div>\n<div class=\"align-center\">Trumping up their Super cure,</div>\n<div class=\"align-center\">they hawk salvation.</div>\n<div> </div>",
             "image": "https://words.skylarkfoundry.com/media/posts/25/622800025_892854293628413_4161654351183353363_n.jpg",
             "author": {
                 "name": "Kevin Kwilinski"
@@ -23,7 +23,7 @@
             "tags": [
             ],
             "date_published": "2026-09-30T06:49:38-04:00",
-            "date_modified": "2026-09-30T06:49:38-04:00"
+            "date_modified": "2026-10-04T16:13:27-04:00"
         },
         {
             "id": "https://words.skylarkfoundry.com/my-deaf-mom.html",

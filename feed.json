@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://words.skylarkfoundry.com/our-funeral.html",
+            "url": "https://words.skylarkfoundry.com/our-funeral.html",
+            "title": "Our Funeral",
+            "summary": "We bury today our Alleluia. It is not dead, but on deposit,&hellip;",
+            "content_html": "<p class=\"align-center\">We bury today our Alleluia.<br>It is not dead,<br>but on deposit,<br>as our brother,<br>who sleeps.<br>But we who amble on,<br>don this burlap,<br>and turn our,<br>face to ash,<br>in penance.<br>This Lent more somber,<br>as bombs fall,<br>as children flee,<br>while we wait,<br>His return.</p>",
+            "image": "https://words.skylarkfoundry.com/media/posts/26/images-4.jpeg",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-04T17:27:26-04:00",
+            "date_modified": "2026-10-04T17:27:26-04:00"
+        },
+        {
             "id": "https://words.skylarkfoundry.com/prosperity-haiku.html",
             "url": "https://words.skylarkfoundry.com/prosperity-haiku.html",
             "title": "Prosperity Haiku",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-09-28T20:34:26-04:00",
             "date_modified": "2026-10-04T17:09:28-04:00"
-        },
-        {
-            "id": "https://words.skylarkfoundry.com/six-feet.html",
-            "url": "https://words.skylarkfoundry.com/six-feet.html",
-            "title": "Six Feet",
-            "summary": "We woke and gazed out, seeing a violent stream now coursed, rapidly&hellip;",
-            "content_html": "<div class=\"align-center\">We woke and gazed out,<br>seeing a violent stream now coursed,<br>rapidly between us and our neighbor's place.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">A strid, deadly if crossed,<br>like that of which Wordsworth wrote,<br>recalling the force of prayer.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Strid from the Old English,<br>word \"Stryth\" meaning \"turmoil\",<br>recalling the force of water.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Strid for the deceptive possibility,<br>of easily striding across so narrow a gap,<br>recalling the force of hope.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just six feet wide,<br>was Wordsworth's ancient strid,<br>in its ancient course past Bolton priory.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just six feet wide,<br>but taking into its icy depths so many,<br>lads and ladies and lovers who dared to pass.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Just six feet of social distance,<br>but no less a thief of friendship,<br>than the six feet of an earthy grave.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">\"Strangled by a merciless force\",<br>the priory cut off from the body,<br>leaving St. Mary and St. Cuthbert alone in prayer.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But Moses’ staff was lifted high,<br>and God parted the sea enough,<br>to consume the six foot width of Pharoah's chariot.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And God kept faith,<br>Delivering His people out of bondage,<br>by deftly closing that six foot gap.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And His Son kept faith,<br>Delivering His people out of bondage,<br>from six feet up on that old cross.</div>",
-            "image": "https://words.skylarkfoundry.com/media/posts/16/images-3.jpeg",
-            "author": {
-                "name": "Kevin Kwilinski"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-28T20:25:15-04:00",
-            "date_modified": "2026-10-04T16:51:56-04:00"
         }
     ]
 }

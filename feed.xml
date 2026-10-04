@@ -3,12 +3,35 @@
     <title>words.skylarkfoundry.com</title>
     <link href="https://words.skylarkfoundry.com/feed.xml" rel="self" />
     <link href="https://words.skylarkfoundry.com" />
-    <updated>2026-10-04T17:20:33-04:00</updated>
+    <updated>2026-10-04T17:27:26-04:00</updated>
     <author>
         <name>Kevin Kwilinski</name>
     </author>
     <id>https://words.skylarkfoundry.com</id>
 
+    <entry>
+        <title>Our Funeral</title>
+        <author>
+            <name>Kevin Kwilinski</name>
+        </author>
+        <link href="https://words.skylarkfoundry.com/our-funeral.html"/>
+        <id>https://words.skylarkfoundry.com/our-funeral.html</id>
+        <media:content url="https://words.skylarkfoundry.com/media/posts/26/images-4.jpeg" medium="image" />
+
+        <updated>2026-10-04T17:27:26-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://words.skylarkfoundry.com/media/posts/26/images-4.jpeg" alt="" />
+                    We bury today our Alleluia. It is not dead, but on deposit,&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://words.skylarkfoundry.com/media/posts/26/images-4.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">We bury today our Alleluia.<br>It is not dead,<br>but on deposit,<br>as our brother,<br>who sleeps.<br>But we who amble on,<br>don this burlap,<br>and turn our,<br>face to ash,<br>in penance.<br>This Lent more somber,<br>as bombs fall,<br>as children flee,<br>while we wait,<br>His return.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Prosperity Haiku</title>
         <author>
@@ -266,49 +289,6 @@
 <div class="align-center"> </div>
 <div class="align-center">And these many years<br>it has been my joy to gaze</div>
 <div class="align-center">into the warm eyes of the gardener.</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Six Feet</title>
-        <author>
-            <name>Kevin Kwilinski</name>
-        </author>
-        <link href="https://words.skylarkfoundry.com/six-feet.html"/>
-        <id>https://words.skylarkfoundry.com/six-feet.html</id>
-        <media:content url="https://words.skylarkfoundry.com/media/posts/16/images-3.jpeg" medium="image" />
-
-        <updated>2026-09-28T20:25:15-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://words.skylarkfoundry.com/media/posts/16/images-3.jpeg" alt="" />
-                    We woke and gazed out, seeing a violent stream now coursed, rapidly&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://words.skylarkfoundry.com/media/posts/16/images-3.jpeg" class="type:primaryImage" alt="" /></p>
-                <div class="align-center">We woke and gazed out,<br>seeing a violent stream now coursed,<br>rapidly between us and our neighbor's place.</div>
-<div class="align-center"> </div>
-<div class="align-center">A strid, deadly if crossed,<br>like that of which Wordsworth wrote,<br>recalling the force of prayer.</div>
-<div class="align-center"> </div>
-<div class="align-center">Strid from the Old English,<br>word "Stryth" meaning "turmoil",<br>recalling the force of water.</div>
-<div class="align-center"> </div>
-<div class="align-center">Strid for the deceptive possibility,<br>of easily striding across so narrow a gap,<br>recalling the force of hope.</div>
-<div class="align-center"> </div>
-<div class="align-center">Just six feet wide,<br>was Wordsworth's ancient strid,<br>in its ancient course past Bolton priory.</div>
-<div class="align-center"> </div>
-<div class="align-center">Just six feet wide,<br>but taking into its icy depths so many,<br>lads and ladies and lovers who dared to pass.</div>
-<div class="align-center"> </div>
-<div class="align-center">Just six feet of social distance,<br>but no less a thief of friendship,<br>than the six feet of an earthy grave.</div>
-<div class="align-center"> </div>
-<div class="align-center">"Strangled by a merciless force",<br>the priory cut off from the body,<br>leaving St. Mary and St. Cuthbert alone in prayer.</div>
-<div class="align-center"> </div>
-<div class="align-center">But Moses’ staff was lifted high,<br>and God parted the sea enough,<br>to consume the six foot width of Pharoah's chariot.</div>
-<div class="align-center"> </div>
-<div class="align-center">And God kept faith,<br>Delivering His people out of bondage,<br>by deftly closing that six foot gap.</div>
-<div class="align-center"> </div>
-<div class="align-center">And His Son kept faith,<br>Delivering His people out of bondage,<br>from six feet up on that old cross.</div>
             ]]>
         </content>
     </entry>

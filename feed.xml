@@ -3,12 +3,53 @@
     <title>words.skylarkfoundry.com</title>
     <link href="https://words.skylarkfoundry.com/feed.xml" rel="self" />
     <link href="https://words.skylarkfoundry.com" />
-    <updated>2026-10-04T17:27:26-04:00</updated>
+    <updated>2026-10-04T17:38:23-04:00</updated>
     <author>
         <name>Kevin Kwilinski</name>
     </author>
     <id>https://words.skylarkfoundry.com</id>
 
+    <entry>
+        <title>Maternal Silence</title>
+        <author>
+            <name>Kevin Kwilinski</name>
+        </author>
+        <link href="https://words.skylarkfoundry.com/maternal-silence.html"/>
+        <id>https://words.skylarkfoundry.com/maternal-silence.html</id>
+        <media:content url="https://words.skylarkfoundry.com/media/posts/27/scan0050-1.jpeg" medium="image" />
+
+        <updated>2026-10-04T17:38:23-04:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://words.skylarkfoundry.com/media/posts/27/scan0050-1.jpeg" alt="" />
+                    She was a young woman, from a world of chaos. But She&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://words.skylarkfoundry.com/media/posts/27/scan0050-1.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="align-center">She was a young woman,<br>from a world of<br>chaos.</div>
+<div class="align-center"> </div>
+<div class="align-center">But She tried to hide<br>that chaos behind her<br>smile.</div>
+<div class="align-center"> </div>
+<div class="align-center">At first she would hear<br>me crying in the<br>crib.</div>
+<div class="align-center"> </div>
+<div class="align-center">But by the time I talked,<br>her world was<br>silent.</div>
+<div class="align-center"> </div>
+<div class="align-center">She would watch my lips<br>while I said my<br>prayers.</div>
+<div class="align-center"> </div>
+<div class="align-center">But sometimes I would peek<br>at her with one<br>eye.</div>
+<div class="align-center"> </div>
+<div class="align-center">Records played in her head,<br>which only she could<br>hear.</div>
+<div class="align-center"> </div>
+<div class="align-center">But we would often<br>dance to their<br>beat.</div>
+<div class="align-center"> </div>
+<div class="align-center">She taught me old lyrics,<br>which we sang<br>off-key.</div>
+<div class="align-center"> </div>
+<div class="align-center">But those melodies<br>are still my<br>favorite.</div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Our Funeral</title>
         <author>
@@ -254,41 +295,6 @@
 <div> </div>
 <div>Thick pads and fronds conceal a statued crane.<br>I feel a cool puff of wind upon my face,<br>a Divine reply to my just presented prayer.</div>
 </div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Motherhood</title>
-        <author>
-            <name>Kevin Kwilinski</name>
-        </author>
-        <link href="https://words.skylarkfoundry.com/jewelry.html"/>
-        <id>https://words.skylarkfoundry.com/jewelry.html</id>
-        <media:content url="https://words.skylarkfoundry.com/media/posts/17/ChatGPT-Image-Oct-4-2026-04_57_00-PM.png" medium="image" />
-
-        <updated>2026-09-28T20:34:26-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://words.skylarkfoundry.com/media/posts/17/ChatGPT-Image-Oct-4-2026-04_57_00-PM.png" alt="" />
-                    In the springtime of our life you brought forth a citrine bud&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://words.skylarkfoundry.com/media/posts/17/ChatGPT-Image-Oct-4-2026-04_57_00-PM.png" class="type:primaryImage" alt="" /></p>
-                <div class="align-center">In the springtime of our life<br>you brought forth a citrine bud<br>which so very slowly grew.</div>
-<div class="align-center"> </div>
-<div class="align-center">Soon peridot petals began<br>to emerge from that delicate gem<br>so pregnant with promise.</div>
-<div class="align-center"> </div>
-<div class="align-center">With exhausting care and<br>tears and prayer you brought</div>
-<div class="align-center">your work to full bloom.</div>
-<div class="align-center"> </div>
-<div class="align-center">Those six delicate petals</div>
-<div class="align-center">have captured our imagination</div>
-<div class="align-center">with their awesome beauty.</div>
-<div class="align-center"> </div>
-<div class="align-center">And these many years<br>it has been my joy to gaze</div>
-<div class="align-center">into the warm eyes of the gardener.</div>
             ]]>
         </content>
     </entry>

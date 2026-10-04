@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://words.skylarkfoundry.com/maternal-silence.html",
+            "url": "https://words.skylarkfoundry.com/maternal-silence.html",
+            "title": "Maternal Silence",
+            "summary": "She was a young woman, from a world of chaos. But She&hellip;",
+            "content_html": "<div class=\"align-center\">She was a young woman,<br>from a world of<br>chaos.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But She tried to hide<br>that chaos behind her<br>smile.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">At first she would hear<br>me crying in the<br>crib.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But by the time I talked,<br>her world was<br>silent.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">She would watch my lips<br>while I said my<br>prayers.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But sometimes I would peek<br>at her with one<br>eye.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Records played in her head,<br>which only she could<br>hear.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But we would often<br>dance to their<br>beat.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">She taught me old lyrics,<br>which we sang<br>off-key.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">But those melodies<br>are still my<br>favorite.</div>",
+            "image": "https://words.skylarkfoundry.com/media/posts/27/scan0050-1.jpeg",
+            "author": {
+                "name": "Kevin Kwilinski"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-10-04T17:38:23-04:00",
+            "date_modified": "2026-10-04T17:38:23-04:00"
+        },
+        {
             "id": "https://words.skylarkfoundry.com/our-funeral.html",
             "url": "https://words.skylarkfoundry.com/our-funeral.html",
             "title": "Our Funeral",
@@ -144,21 +159,6 @@
             ],
             "date_published": "2026-09-28T20:40:53-04:00",
             "date_modified": "2026-10-04T15:44:37-04:00"
-        },
-        {
-            "id": "https://words.skylarkfoundry.com/jewelry.html",
-            "url": "https://words.skylarkfoundry.com/jewelry.html",
-            "title": "Motherhood",
-            "summary": "In the springtime of our life you brought forth a citrine bud&hellip;",
-            "content_html": "<div class=\"align-center\">In the springtime of our life<br>you brought forth a citrine bud<br>which so very slowly grew.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Soon peridot petals began<br>to emerge from that delicate gem<br>so pregnant with promise.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">With exhausting care and<br>tears and prayer you brought</div>\n<div class=\"align-center\">your work to full bloom.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">Those six delicate petals</div>\n<div class=\"align-center\">have captured our imagination</div>\n<div class=\"align-center\">with their awesome beauty.</div>\n<div class=\"align-center\"> </div>\n<div class=\"align-center\">And these many years<br>it has been my joy to gaze</div>\n<div class=\"align-center\">into the warm eyes of the gardener.</div>",
-            "image": "https://words.skylarkfoundry.com/media/posts/17/ChatGPT-Image-Oct-4-2026-04_57_00-PM.png",
-            "author": {
-                "name": "Kevin Kwilinski"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-09-28T20:34:26-04:00",
-            "date_modified": "2026-10-04T17:09:28-04:00"
         }
     ]
 }

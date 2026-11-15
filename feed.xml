@@ -3,12 +3,35 @@
     <title>words.skylarkfoundry.com</title>
     <link href="https://words.skylarkfoundry.com/feed.xml" rel="self" />
     <link href="https://words.skylarkfoundry.com" />
-    <updated>2026-11-07T07:52:13-05:00</updated>
+    <updated>2026-11-15T09:32:33-05:00</updated>
     <author>
         <name>Kevin Kwilinski</name>
     </author>
     <id>https://words.skylarkfoundry.com</id>
 
+    <entry>
+        <title>Indispensable</title>
+        <author>
+            <name>Kevin Kwilinski</name>
+        </author>
+        <link href="https://words.skylarkfoundry.com/indispensable.html"/>
+        <id>https://words.skylarkfoundry.com/indispensable.html</id>
+        <media:content url="https://words.skylarkfoundry.com/media/posts/30/images-7.jpeg" medium="image" />
+
+        <updated>2026-11-15T09:32:33-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://words.skylarkfoundry.com/media/posts/30/images-7.jpeg" alt="" />
+                    He is a genius without equal. Grasping the distant future more firmly&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://words.skylarkfoundry.com/media/posts/30/images-7.jpeg" class="type:primaryImage" alt="" /></p>
+                <p class="align-center">He is a genius without equal.<br>Grasping the distant future<br>more firmly than I grasp<br>a door knob.<br>He is irreplaceable.<br><br>“But the graveyards are full<br>of indispensable men,"<br>said a wise man.<br>Replaced by <br>Pompiduo.<br><br>But I mean indispensable,<br>to a future world that<br>might have been.<br>Something that was<br>taken from us.<br><br>Indispensable, like so many<br>little ones before<br>being discarded<br>from their mother’s<br>womb.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>South Shore Line in Fall</title>
         <author>
@@ -313,41 +336,6 @@
             <![CDATA[
                     <p><img src="https://words.skylarkfoundry.com/media/posts/21/1468_p12_l.jpg" class="type:primaryImage" alt="" /></p>
                 <p class="align-center">Lipstick red,<br>your massive hips<br>bulge above supple feet,<br>as my finger gently traces<br>their obscene curve.<br>Anticipating that<br>provocative,<br>pulsing,<br>power,<br>perched<br>between your thick thighs,<br>I take my seat<br>and eagerly<br>turn the key.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Liquor</title>
-        <author>
-            <name>Kevin Kwilinski</name>
-        </author>
-        <link href="https://words.skylarkfoundry.com/liquor.html"/>
-        <id>https://words.skylarkfoundry.com/liquor.html</id>
-        <media:content url="https://words.skylarkfoundry.com/media/posts/20/sippytitle-1.jpg" medium="image" />
-
-        <updated>2026-09-28T20:47:10-04:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://words.skylarkfoundry.com/media/posts/20/sippytitle-1.jpg" alt="" />
-                    The poetic word is potent. Like one hundred and seven proof bourbon,&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://words.skylarkfoundry.com/media/posts/20/sippytitle-1.jpg" class="type:primaryImage" alt="" /></p>
-                <div class="align-center">The poetic word is potent.<br>Like one hundred and seven proof<br>bourbon,<br>it makes me drunk.</div>
-<div class="align-center"><br>Plenty of pages of prose<br>are distilled in<br>a single<br>verse.</div>
-<div class="align-center"><br>It is irresistible as<br>I swirl it in my mouth.<br>Sniff it.<br>Taste it.</div>
-<div class="align-center"><br>I breathe it in.</div>
-<div class="align-center"><br>I hold it up to the light<br>to peer into its soul.</div>
-<div class="align-center"><br>With voracious appetite,<br>I invert its glass until</div>
-<div class="align-center"><br>the</div>
-<div class="align-center"><br>last</div>
-<div class="align-center"><br>drip</div>
-<div class="align-center"><br>slides</div>
-<div class="align-center">so<br>slowly</div>
-<div class="align-center"><br>onto my </div>
-<div class="align-center">silver<br>tongue.</div>
             ]]>
         </content>
     </entry>
